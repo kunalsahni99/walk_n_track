@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "624410879284-rka5nvcac68sf2jc08il9e436gc3mqgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wnt.walk_n_track",
+            "certificate_hash": "14c2a43e4160aaebd8e263870aa0eb5729958da5"
+          }
+        },
+        {
           "client_id": "624410879284-2s912q2qvrqi5q4lfefv0rltk42hd4p0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
